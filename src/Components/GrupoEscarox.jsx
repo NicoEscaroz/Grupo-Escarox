@@ -3,7 +3,11 @@ import Typed from "react-typed";
 
 const GrupoEscarox = ({ Inicio }) => {
   return (
-    <div id="Inicio" ref={Inicio} className="text-black font-body">
+    <div
+      id="Inicio"
+      ref={Inicio}
+      className="text-black font-body scroll-smooth"
+    >
       <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
         <p className="font-bold p-2">DESDE 1991</p>
         <h1 className="md:text-6xl sm:text-5xl text-4xl font-bold md:py-6">
