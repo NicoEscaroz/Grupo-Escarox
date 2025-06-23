@@ -151,7 +151,7 @@ const Catalogo = () => {
                     fontWeight: 'bold',
                     color: '#1f2937'
                   }}>
-                    Catálogo Completo 2024
+                    Catálogo Completo 2025
                   </h3>
                 </div>
                 <p style={{ color: '#6b7280', marginBottom: '16px' }}>

@@ -207,31 +207,6 @@ const Nosotros = () => {
             </div>
           </div>
         </div>
-
-        {/* Stats Section */}
-        <div style={{
-          marginTop: '64px',
-          display: 'grid',
-          gridTemplateColumns: window.innerWidth >= 768 ? 'repeat(4, 1fr)' : 'repeat(2, 1fr)',
-          gap: '32px'
-        }}>
-          <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: window.innerWidth >= 768 ? '48px' : '36px', fontWeight: 'bold', color: '#2563eb', marginBottom: '8px' }}>30+</div>
-            <div style={{ color: '#6b7280', fontWeight: '500' }}>Años de Experiencia</div>
-          </div>
-          <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: window.innerWidth >= 768 ? '48px' : '36px', fontWeight: 'bold', color: '#2563eb', marginBottom: '8px' }}>1000+</div>
-            <div style={{ color: '#6b7280', fontWeight: '500' }}>Clientes Satisfechos</div>
-          </div>
-          <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: window.innerWidth >= 768 ? '48px' : '36px', fontWeight: 'bold', color: '#2563eb', marginBottom: '8px' }}>500+</div>
-            <div style={{ color: '#6b7280', fontWeight: '500' }}>Productos Disponibles</div>
-          </div>
-          <div style={{ textAlign: 'center' }}>
-            <div style={{ fontSize: window.innerWidth >= 768 ? '48px' : '36px', fontWeight: 'bold', color: '#2563eb', marginBottom: '8px' }}>24/7</div>
-            <div style={{ color: '#6b7280', fontWeight: '500' }}>Atención al Cliente</div>
-          </div>
-        </div>
       </div>
     </section>
   );

@@ -124,83 +124,9 @@ const Historia = () => {
                 </p>
               </div>
             </div>
-
-            {/* Timeline */}
-            <div style={{ marginTop: '48px' }}>
-              <h4 className="font-heading" style={{
-                fontSize: window.innerWidth >= 768 ? '20px' : '18px',
-                fontWeight: 'bold',
-                color: '#1f2937',
-                marginBottom: '24px'
-              }}>
-                Nuestra Trayectoria
-              </h4>
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-                  <div style={{
-                    width: '48px',
-                    height: '48px',
-                    background: '#2563eb',
-                    borderRadius: '50%',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    color: 'white',
-                    fontWeight: 'bold',
-                    fontSize: '14px'
-                  }}>
-                    85
-                  </div>
-                  <div>
-                    <h5 style={{ fontWeight: '600', color: '#1f2937' }}>Fundación</h5>
-                    <p style={{ fontSize: '14px', color: '#6b7280' }}>Nacimiento de la empresa</p>
-                  </div>
-                </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-                  <div style={{
-                    width: '48px',
-                    height: '48px',
-                    background: '#2563eb',
-                    borderRadius: '50%',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    color: 'white',
-                    fontWeight: 'bold',
-                    fontSize: '14px'
-                  }}>
-                    91
-                  </div>
-                  <div>
-                    <h5 style={{ fontWeight: '600', color: '#1f2937' }}>Expansión</h5>
-                    <p style={{ fontSize: '14px', color: '#6b7280' }}>Ampliación de productos</p>
-                  </div>
-                </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
-                  <div style={{
-                    width: '48px',
-                    height: '48px',
-                    background: '#2563eb',
-                    borderRadius: '50%',
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    color: 'white',
-                    fontWeight: 'bold',
-                    fontSize: '14px'
-                  }}>
-                    24
-                  </div>
-                  <div>
-                    <h5 style={{ fontWeight: '600', color: '#1f2937' }}>Presente</h5>
-                    <p style={{ fontSize: '14px', color: '#6b7280' }}>Líderes en la región</p>
-                  </div>
-                </div>
-              </div>
             </div>
-          </div>
-        </div>
-      </div>
+            </div>
+            </div>
     </section>
   );
 };
