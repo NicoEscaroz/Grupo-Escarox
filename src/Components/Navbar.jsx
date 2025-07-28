@@ -147,7 +147,7 @@ const Navbar = () => {
                 Grupo Escarox
               </div>
               <div style={{ fontSize: '12px', color: '#6b7280', fontWeight: '500' }}>
-                Desde 1991
+                Desde 1985
               </div>
             </div>
           </RouterLink>
@@ -241,7 +241,7 @@ const Navbar = () => {
                   margin: 0,
                   fontWeight: '500'
                 }}>
-                  Grupo Escarox - Desde 1991
+                  Grupo Escarox - Desde 1985
                 </p>
               </div>
             </div>

@@ -66,7 +66,7 @@ const GrupoEscarox = ({ Inicio }) => {
               marginRight: '8px',
               animation: 'pulse 2s ease-in-out infinite'
             }}></span>
-            DESDE 1991
+            DESDE 1985
           </div>
 
           {/* Main heading */}
@@ -136,7 +136,7 @@ const GrupoEscarox = ({ Inicio }) => {
             marginTop: '64px'
           }}>
             <div style={{ textAlign: 'center' }}>
-              <div style={{ fontSize: window.innerWidth >= 768 ? '48px' : '36px', fontWeight: 'bold', color: '#2563eb', marginBottom: '8px' }}>30+</div>
+              <div style={{ fontSize: window.innerWidth >= 768 ? '48px' : '36px', fontWeight: 'bold', color: '#2563eb', marginBottom: '8px' }}>40+</div>
               <div style={{ color: '#6b7280', fontWeight: '500' }}>Años de Experiencia</div>
             </div>
             <div style={{ textAlign: 'center' }}>

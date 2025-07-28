@@ -79,10 +79,9 @@ const Historia = () => {
                   Crecimiento y Expansión
                 </h3>
                 <p style={{ color: '#6b7280', lineHeight: 1.7 }}>
-                  Con el tiempo surgen necesidades locales diferentes a las establecidas
-                  y se agregan productos como rodamientos, resortes, materiales para
-                  servicio terrestre pesado como abrazaderas para muelle y birlos sin
-                  descuidar su enfoque, a la par, crece el nivel de atención al público.
+                  Con el tiempo surgen necesidades locales diferentes en el mercado a las establecidas.
+                  Eso nos lleva a agregar productos como rodamientos, resortes, accesorios industriales y automotrices.
+                  A la par, crece el nivel de atención al público.
                 </p>
               </div>
 
@@ -93,12 +92,13 @@ const Historia = () => {
                   color: '#1f2937',
                   marginBottom: '16px'
                 }}>
-                  Servicio Personalizado
+                  Servicio y Colaboración
                 </h3>
                 <p style={{ color: '#6b7280', lineHeight: 1.7 }}>
                   En Grupo Escarox contamos con un sistema de atención a clientes en
-                  mostrador y personalizado en horario amplio, además, entrega a
-                  domicilio para satisfacción de quienes nos prefieren.
+                  mostrador y personalizado en horario amplio. 
+                  Trabajamos con diferencias industrias, como la cervecera, automotriz, alimenticia, de empaque o maquiladora.
+
                 </p>
               </div>
 

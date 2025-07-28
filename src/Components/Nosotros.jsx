@@ -52,7 +52,7 @@ const Nosotros = () => {
             maxWidth: '512px',
             margin: '24px auto 0'
           }}>
-            Con más de 30 años de experiencia, hemos construido nuestra identidad basada en valores sólidos y un compromiso inquebrantable con nuestros clientes.
+            Con más de 40 años de experiencia, hemos construido nuestra identidad basada en valores sólidos y un compromiso inquebrantable con nuestros clientes.
           </p>
         </div>
 

@@ -241,7 +241,7 @@ const Footer = () => {
                 padding: '16px'
               }}>
                 <p style={{ fontWeight: '600', color: '#93c5fd' }}>Lunes a Viernes</p>
-                <p style={{ color: '#d1d5db' }}>8:00 a.m. - 6:00 p.m.</p>
+                <p style={{ color: '#d1d5db' }}>8:00 a.m. - 5:30 p.m.</p>
               </div>
               <div style={{
                 background: 'rgba(255, 255, 255, 0.1)',
@@ -326,7 +326,7 @@ const Footer = () => {
                 <div style={{ textAlign: 'left' }}>
                   <p style={{ fontWeight: '600', color: '#93c5fd' }}>Email</p>
                   <a 
-                    href="mailto:grupoescarox@hotmail.com" 
+                    href="mailto:grupoescarox@gmail.com" 
                     style={{
                       color: '#d1d5db',
                       fontSize: '14px',
@@ -336,7 +336,7 @@ const Footer = () => {
                     onMouseEnter={(e) => e.target.style.color = '#60a5fa'}
                     onMouseLeave={(e) => e.target.style.color = '#d1d5db'}
                   >
-                    grupoescarox@hotmail.com
+                    grupoescarox@gmail.com
                   </a>
                 </div>
               </div>
@@ -381,7 +381,7 @@ const Footer = () => {
         }}>
           <p style={{ color: '#9ca3af' }}>
             © 2024 Grupo Escarox. Todos los derechos reservados. | 
-            <span style={{ color: '#60a5fa' }}> Desde 1991 sirviendo a la comunidad</span>
+            <span style={{ color: '#60a5fa' }}> Desde 1985 sirviendo a la comunidad</span>
           </p>
         </div>
       </div>
